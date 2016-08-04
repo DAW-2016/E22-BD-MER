@@ -4,7 +4,7 @@
 
 **João Eduardo Montandon**
 
-**Dica: para fazer os diagramas, recomendo a utilização do TerraER.**
+**Dica: para fazer os diagramas, recomendo a utilização do [TerraER](http://www.terraer.com.br/).**
 
 1. Explique a diferença entre entidade e ocorrência (instância) de entidade.
 2. Construa um DER que modele a relação entre um time de futebol e seus jogadores. Um time pode ter vários jogadores, mas um jogador deve pertencer somente a um time.
