@@ -1,0 +1,6 @@
+Questão:
+  Explique a diferença entre entidade e ocorrência (instância) de entidade
+
+Resposta:
+  Uma entidade é a representação das especificações de um objeto, ja a ocorrência (instância) de entidade é a
+  maneira que um objeto específico é referido.
