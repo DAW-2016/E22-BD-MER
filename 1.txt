@@ -1,0 +1,3 @@
+Entidade pode ser entendida como uma "coisa" ou algo da realidade modelada onde deseja-se manter informações no banco de dados. Uma ocorrência de entidade é um objeto particular de uma determinada entidade. Ou seja:
+Entidade - Aluno
+Ocorrência de entidade - Um aluno em específico
